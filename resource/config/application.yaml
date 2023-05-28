@@ -1,0 +1,4 @@
+app:
+  version: v1.0.0 pre
+  name: python-init
+  # is_show_banner: true
